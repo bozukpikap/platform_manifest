@@ -21,6 +21,10 @@
   <remote  name="rr"
 	   fetch="https://github.com/ResurrectionRemix"
 	   revision="nougat" />
+	
+  <remote  name="bp"
+	   fetch="https://github.com/bozukpikap"
+	   revision="nougat" />
 
   <!-- AOSP Projects -->
   <project path="build" name="android_build" remote="rr" >
